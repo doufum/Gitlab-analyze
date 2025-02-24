@@ -31,7 +31,7 @@ go build -o gitlab-analyze cmd/main.go
 
 5. 设置环境变量（可选）：
 ```bash
-export GITLAB_URL=export GITLAB_URL=URL_ADDRESS-gitlab-instance.com
+export GITLAB_URL=gitlab-instance.com
 export GITLAB_TOKEN=your-gitlab-token
 ```
 

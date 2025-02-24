@@ -1,4 +1,4 @@
-module gitlab-analyze
+module github.com/doufum/gitlab-analyze
 
 go 1.21
 
