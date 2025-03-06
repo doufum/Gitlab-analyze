@@ -29,6 +29,9 @@ archives:
     format_overrides:
       - goos: windows
         format: zip
+    files:
+      - .env
+      - projects.xlsx
 
 checksum:
   name_template: 'checksums.txt'
